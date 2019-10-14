@@ -1,7 +1,7 @@
 # ciudad-verde
  Análisis del Sistema de Higiene Urbana de CABA
 
-Este repositorio incluye el reporte de Power BI utilizado para analizar el estado actual del sistema de Higiene Urbana de la Ciudad de Buenos Aires.
+Este repositorio incluye el reporte de Power BI utilizado para analizar el estado del sistema de Higiene Urbana de la Ciudad de Buenos Aires durante el 2018 y parte del 2019.
 
 Contenido:
  - Scripts de SQL para la creación de la base de datos utilizada en el análisis (creada en MySQL).
