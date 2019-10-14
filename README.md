@@ -6,7 +6,7 @@ Este repositorio incluye el reporte de Power BI utilizado para analizar el estad
 Contenido:
  - Scripts de SQL para la creación de la base de datos utilizada en el análisis (creada en MySQL).
    Orden de ejecución:
-     1. Ubicar archivos .csv contenidos en la carpeta "Datasets para importar" en la siguiente ruta: 
+     1. Ubicar archivos .csv contenidos en los archivos 7zip "Datasets para importar 1" y "Datasets para importar 2" en la siguiente ruta: 
         C:\ProgramData\MySQL\MySQL Server 8.0\Uploads
      2. Ejecutar script "BA_VERDE_CREACION_DW.sql".
      3. Ejecutar script "BA_VERDE_CREACION_FK.sql".
